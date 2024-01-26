@@ -9,7 +9,7 @@ reservation_kata
 |----test_main.py
 |---__init__.py
 
-"# Python - test de compétence"  Notice d’installation :
+"# Python"  Notice d’installation :
 * Installez les dépendances nécessaires pour lancer le projet
 
 pip install pylint #analyseur de code
