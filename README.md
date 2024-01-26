@@ -1,6 +1,6 @@
-# reservation_kata
+# code permettant de simuler un système de réservation de vol
 
-"# Python - test de compétence" Arborescence du projet :
+"# Python" Arborescence du projet :
 reservation_kata
 |--script
 |----main.js
